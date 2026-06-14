@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm M.Yaswanth</h1>
 <h3 align="center">Passionate Software Developer dedicated to building scalable, maintainable Best Pratice solutions solutions.</h3>
 
-- 🔭 I’m currently working on [Spam_Gmail_Dector](https://github.com/yaswanth-004/Spam_Gmail_Dector)
+- 🔭 I’m currently working on [Spam_Gmail_Dector](https://github.com/yaswanth-004/open_weather_app)
 
-- 👯 I’m looking to collaborate on [Language-Agnostic Static Code Analysis Tool (SAST) with Tree-Sitter](https://github.com/yaswanth-004/sast-project)
+- 👯 I’m looking to collaborate on [Language-Agnostic Static Code Analysis Tool (SAST) with Tree-Sitter](https://github.com/yaswanth-004/open_weather_app)
 
-- 🤝 I’m looking for help with **Traffic Authority Management**
+- 🤝 I’m looking for help with **Buliding secure pratices in web sites or web application**
 
 - 📫 How to reach me **maacyaswanth@gmail.com**
 
